@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+ 
 }
 
 .App-logo {
@@ -35,4 +36,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.slick-slide img {
+  display: block;
+  margin-left: 2rem;
+  margin-right:2rem;
+}
+img{
+  object-fit:contain;
 }

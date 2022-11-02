@@ -1,0 +1,7 @@
+.tiles{
+    margin-left: 2rem;
+    margin-right:2rem;
+}
+img:hover{
+    transform:scale(1.5);
+}
